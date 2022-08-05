@@ -1,0 +1,41 @@
+import turtle as t
+import random
+
+def func_fillcolor():
+    t.colormode(255)
+    r = random.randint(0, 255)
+    g = random.randint(0, 255)
+    b = random.randint(0, 255)
+    t.fillcolor(r, g, b)
+
+def func_leaf(size):
+    for j in range(2):
+        for i in range(15):
+            t.forward(size)
+            t.right(360/60)
+        t.right(90)
+    
+
+def func_flower(leafs, size):
+    func_fillcolor()
+    t.begin_fill()
+    for k in range(leafs):
+        func_leaf(size)
+        t.right(360/leafs) 
+    t.end_fill()      
+
+def leftclick(x, y):
+    t.penup()
+    t.goto(x, y)
+    t.pendown()
+    leafs = random.randint(3, 8)
+    size = random.randint(3, 10)
+    func_flower(leafs, size)
+
+t.speed(0)
+t.shape('turtle')
+t.pensize(2)
+
+#꽃 그리기
+t.onscreenclick(leftclick, 1)       
+t.mainloop()
