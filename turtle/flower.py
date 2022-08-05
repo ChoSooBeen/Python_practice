@@ -26,7 +26,7 @@ def func_flower(leafs, size):
         t.right(360/leafs) 
     t.end_fill()      
 
-    #좌클릭시 실행하는 
+#좌클릭시 실행하는 
 def leftclick(x, y):
     t.penup()
     t.goto(x, y)
