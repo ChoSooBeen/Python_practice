@@ -6,3 +6,5 @@
 
 
 점프 투 파이썬 https://wikidocs.net/book/1
+
+파이썬관련 패키지들을 모아 놓은 저장소 https://pypi.org/
