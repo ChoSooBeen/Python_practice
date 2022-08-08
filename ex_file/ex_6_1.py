@@ -10,3 +10,5 @@ for i in range(10):
     f.write(f'{i}번째 데이터 입니다.\n')
     
 f.close()
+
+# with open 사용시 --> 범위를 벗어나면 객체 해제!!
