@@ -1,13 +1,14 @@
-from operation import *
+import operation as o
 
-a = func_add(10, 5)
+a = o.func_add(10, 5)
 print(a)
 
-a = func_sub(10, 5)
+a = o.func_sub(10, 5)
 print(a)
 
-a = func_mult(10, 5)
+a = o.func_mult(10, 5)
 print(a)
 
-a = func_div(10, 5)
+a = o.func_div(10, 5)
 print(a)
+
