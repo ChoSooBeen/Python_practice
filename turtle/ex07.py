@@ -49,5 +49,10 @@ for i in range(1, 6):
     winner.shapesize(i,i)
     time.sleep(0.1)
 winner.right(random.randint(1, 360))
+t.penup()
+t.goto(0, -150)
+color = str(winner.color()[0])
+t.color(color)
+t.write('Conguratulations ' + color + '!!!!!',align = 'center', font=('Arial', 20, 'normal'))
 
 t.mainloop()
