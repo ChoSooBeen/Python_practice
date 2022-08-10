@@ -9,4 +9,6 @@
 
 파이썬관련 패키지들을 모아 놓은 저장소 https://pypi.org/
 
-teachablemachine을 이용하여 강아지와 고양이 분류하는 인공지능 https://teachablemachine.withgoogle.com/models/SC0GNEzIvG/
+teachablemachine을 이용하여 강아지와 고양이 분류하는 인공지능을 만들어 보았다.
+
+https://teachablemachine.withgoogle.com/models/SC0GNEzIvG/
