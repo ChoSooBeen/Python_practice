@@ -24,26 +24,36 @@ https://github.com/ChoSooBeen/Python_practice/blob/main/Python_List.ipynb
 
 https://github.com/ChoSooBeen/Python_practice/blob/main/Python_for.ipynb
 
-### 8.04 
+### 8.04 THU
 조건문
 
 https://github.com/ChoSooBeen/Python_practice/blob/main/Python_if.ipynb
 
-### 8.05
-함수 - https://github.com/ChoSooBeen/Python_practice/blob/main/Python_def.ipynb
+### 8.05 FRI
+함수
 
-### 8.08
-예외 처리 및 파일 입출력 - https://github.com/ChoSooBeen/Python_practice/blob/main/Python_except.ipynb
+https://github.com/ChoSooBeen/Python_practice/blob/main/Python_def.ipynb
+
+### 8.08 MON
+예외 처리
+
+https://github.com/ChoSooBeen/Python_practice/blob/main/Python_except.ipynb
+
+파일 입출력
 
 https://github.com/ChoSooBeen/Python_practice/tree/main/ex_file
 
-### 8.09
-클래스 - https://github.com/ChoSooBeen/Python_practice/blob/main/Python_class.ipynb
+### 8.09 TUE
+클래스
+
+https://github.com/ChoSooBeen/Python_practice/blob/main/Python_class.ipynb
 
 ### 8.10 ~ 8.11 PYQT 그래픽 및 미니 프로젝트 진행
 
-### 8.12
-데이터 분석 - https://github.com/ChoSooBeen/Python_practice/blob/main/Python_data.ipynb
+### 8.12 FRI
+데이터 분석
+
+https://github.com/ChoSooBeen/Python_practice/blob/main/Python_data.ipynb
 
 https://github.com/ChoSooBeen/Python_practice/blob/main/Python_data2.ipynb
 
