@@ -14,14 +14,20 @@ teachablemachine을 이용하여 만든 강아지와 고양이 분류하는 인�
 pyQT 및 GUI 만들때 필요한 외부 라이브러리 설치 배치파일 https://github.com/ChoSooBeen/Python_practice/blob/main/batch.bat
 
 ----
-### 8.02
-List - https://github.com/ChoSooBeen/Python_practice/blob/main/Python_List.ipynb
+### 8.02 TUE
+List
 
-### 8.03
-반복문, Dictionary - https://github.com/ChoSooBeen/Python_practice/blob/main/Python_for.ipynb
+https://github.com/ChoSooBeen/Python_practice/blob/main/Python_List.ipynb
 
-### 8.04
-조건문 - https://github.com/ChoSooBeen/Python_practice/blob/main/Python_if.ipynb
+### 8.03 WED
+반복문, Dictionary
+
+https://github.com/ChoSooBeen/Python_practice/blob/main/Python_for.ipynb
+
+### 8.04 
+조건문
+
+https://github.com/ChoSooBeen/Python_practice/blob/main/Python_if.ipynb
 
 ### 8.05
 함수 - https://github.com/ChoSooBeen/Python_practice/blob/main/Python_def.ipynb
