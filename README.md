@@ -15,6 +15,30 @@ pyQT 및 GUI 만들때 필요한 외부 라이브러리 설치 배치파일 http
 
 ----
 ### 8.02
-List - 
+List - https://github.com/ChoSooBeen/Python_practice/blob/main/Python_List.ipynb
 
 ### 8.03
+반복문, Dictionary - https://github.com/ChoSooBeen/Python_practice/blob/main/Python_for.ipynb
+
+### 8.04
+조건문 - https://github.com/ChoSooBeen/Python_practice/blob/main/Python_if.ipynb
+
+### 8.05
+함수 - https://github.com/ChoSooBeen/Python_practice/blob/main/Python_def.ipynb
+
+### 8.08
+예외 처리 및 파일 입출력 - https://github.com/ChoSooBeen/Python_practice/blob/main/Python_except.ipynb
+
+https://github.com/ChoSooBeen/Python_practice/tree/main/ex_file
+
+### 8.09
+클래스 - https://github.com/ChoSooBeen/Python_practice/blob/main/Python_class.ipynb
+
+### 8.10 ~ 8.11 PYQT 그래픽 및 미니 프로젝트 진행
+
+### 8.12
+데이터 분석 - https://github.com/ChoSooBeen/Python_practice/blob/main/Python_data.ipynb
+
+https://github.com/ChoSooBeen/Python_practice/blob/main/Python_data2.ipynb
+
+### 8.16 ~ 8.19 본 프로젝트 진행
