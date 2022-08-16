@@ -12,3 +12,9 @@
 teachablemachine을 이용하여 만든 강아지와 고양이 분류하는 인공지능 https://teachablemachine.withgoogle.com/models/SC0GNEzIvG/
 
 pyQT 및 GUI 만들때 필요한 외부 라이브러리 설치 배치파일 https://github.com/ChoSooBeen/Python_practice/blob/main/batch.bat
+
+----
+### 8.02
+List - 
+
+### 8.03
